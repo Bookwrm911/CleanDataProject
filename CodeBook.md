@@ -32,8 +32,8 @@ This data was collected as a part of Human Activity Recognition from 30 voluntee
 ####### Further explaination of the measurements found in features_info.txt file found in raw data folder.
 
 
-1.tBodyAccMeanX
-2. tBodyAccMeanY 
+1. tBodyAccMeanX
+2. tBodyAccMeanY
 3. tBodyAccMeanZ
 4. tBodyAccStdX
 5. tBodyAccStdY
