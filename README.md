@@ -9,6 +9,6 @@ This repository contains a run_analysis.R , which is R script that is designed t
 
 The R script will dowload the raw data from the University of California-Irvine Machine Learning Repository. and will be loaded as a zip file called. It then unzipp the raw data files in order to be used, and produce a folder known called UCI HAR Dataset. As the function is optimized for Windows, adding an additional argument (method = "curl") to line 5 may be needed for it to work on a Mac. However, the addition of said argument would prevent the function from running on a PC.
 
-The function will then read the relavant data and merge them in a way as to prodcue a single tidy data set called tidy_data.txt. This file is also found in this repository.
+The function will then read the relavant data and merge them in a way as to produce a single tidy data set called tidy_data.txt. This file is also found in this repository.
 
 CodeBook.md explains the transfromations performed to the raw data, as well as the resulting variables and tidy data.  
